@@ -8,25 +8,25 @@
 
 github:
   name: "GitHub"
-  baseURL: "https://github.com/baarkerlounger"
+  baseURL: "https://github.com/"
   icon: "fa-github"
 
 twitter:
   name: "Twitter"
-  baseURL: "https://twitter.com/baarkerlounger"
+  baseURL: "https://twitter.com/"
   icon: "fa-twitter"
 
 email:
   name: "Email me"
-  baseURL: "mailto:baarkerlounger@protonmail.com"
+  baseURL: "mailto:"
   icon: "fa-envelope"
 
 linkedin:
   name: "LinkedIn"
-  baseURL: "https://linkedin.com/in/daniel-baark-8b478448"
+  baseURL: "https://linkedin.com/in/"
   icon: "fa-linkedin"
 
 stackoverflow:
   name: "StackOverflow"
-  baseURL: "https://stackoverflow.com/users/baarkerlounger"
+  baseURL: "https://stackoverflow.com/users/"
   icon: "fa-stack-overflow"
